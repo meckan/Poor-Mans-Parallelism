@@ -31,4 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-/Poor-Man-Parallelism-server/.mvn/
+/Poor-Man-Parallelism-server/.mvn/**
+Poor-Man-Parallelism-server/.mvn/wrapper/maven-wrapper.jar

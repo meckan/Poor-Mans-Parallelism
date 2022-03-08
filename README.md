@@ -40,6 +40,7 @@ Where the list-of-server is a list with space in between, and looks like example
 #### Client
 * In IDE open run options and enter arguments as list above.
 * Run projekt
+* When image generation is done a image comabine.png will be created in projekt folder. 
 
 
 ## Authors
